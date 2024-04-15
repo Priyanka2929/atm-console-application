@@ -1,7 +1,7 @@
 # ATM System
 
 This is a simple ATM (Automated Teller Machine) system implemented in Java, allowing users to check their balance and make withdrawals. The system also includes administrative functions such as refilling the ATM machine.
-
+ 
 ## How to Use
 
 1. **Compile the Code:** You need to compile the Java source files using a Java compiler. You can use any IDE (Integrated Development Environment) such as Eclipse, IntelliJ IDEA, or compile directly from the command line.
